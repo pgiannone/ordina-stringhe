@@ -1,4 +1,4 @@
-#ordina-stringhe
+# ordina-stringhe
 
 Il tuo compito è di ordinare una stringa data. 
 Ogni parola della stringa conterrà un singolo numero. Questo numero rappresenta la posizione che la parola deve avere nel risultato.
